@@ -49,7 +49,7 @@ The goal was to combine **web development and creative design** to produce a pro
 
 Here’s the original Canva poster that inspired the HTML/CSS version:
 
-![Canva Poster Preview](Canva-poster.png)
+![Canva Poster Preview](https://github.com/kalinoosi681-droid/birthday-invite-template/blob/main/Canva%20poster.png)
 
 _Originally designed in Canva, then re-created using pure HTML & CSS for web deployment._
 
